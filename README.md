@@ -9,7 +9,7 @@ I'm from Hawaii (born and raised), but my love for aviation led me to Embry-Ridd
 ## Projects
 For funsies, I'm finishing up a Typing Test project made with pygame. Try it out with:
 ```sh
-$ *Still working on it*
+$ sudo git clone https://github.com/BurritoBlankets/TypingTest.git
 ```
 
 I am also building a virtual cyber lab to experiment with pen testing. (Documentation coming soon)
