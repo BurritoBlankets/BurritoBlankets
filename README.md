@@ -7,12 +7,9 @@ I'm from Hawaii (born and raised), but my love for aviation led me to Embry-Ridd
 
 
 ## Projects
-For funsies, I'm finishing up a Typing Test project made with pygame. Try it out with:
-```sh
-$ sudo git clone https://github.com/BurritoBlankets/TypingTest.git
-```
+* For funsies, I made a [Typing Test made with pygame.](https://github.com/BurritoBlankets/TypingTest)
 
-I am also building a virtual cyber lab to experiment with pen testing. (Documentation coming soon)
+* Right now I am in the process of building a virtual cyber lab to experiment with pen testing. (Documentation coming soon)
 
 
 ## [Contact Me](mailto:Duenaslj@my.erau.edu?subject=%20Github%20Inquiry%20)
