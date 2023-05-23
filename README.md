@@ -9,4 +9,4 @@ I'm from Hawaii (born and raised), but my love for aviation led me to Embry-Ridd
 ## Projects
 * For funsies, I'm in the process of making a [Solitare Game](https://github.com/BurritoBlankets/Solitare) in C, by utilizing the ncurses library 
 
-* Being facinated with the idea of malware detection I'm also currently learing Assembly. Currently I'm refrencing **The Art of Assembly Language** by  Randall Hyde.
+* Being facinated with the idea of malware detection I'm also currently learing Assembly. Currently I'm referencing *The Art of Assembly Language* by  Randall Hyde.
