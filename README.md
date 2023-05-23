@@ -10,3 +10,5 @@ I'm from Hawaii (born and raised), but my love for aviation led me to Embry-Ridd
 * For funsies, I'm in the process of making a [Solitare Game](https://github.com/BurritoBlankets/Solitare) in C, by utilizing the ncurses library 
 
 * Being facinated with the idea of malware detection I'm also currently learing Assembly. Currently I'm referencing *The Art of Assembly Language* by  Randall Hyde.
+
+* Buffing-up my resume to apply for internships next summer. Not a big social-media guy, but maybe I'll add more to my [linkedin profile]( https://www.linkedin.com/in/jose-duenas-lopez-7b01bb278/) too.
