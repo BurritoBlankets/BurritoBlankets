@@ -1,6 +1,3 @@
-# About Me
-I'm a cybersecurity enthusiast.
-
 ## Projects
 * Most recently I recreated [SHA-256 in CPP](https://github.com/BurritoBlankets/SHA256).
 
